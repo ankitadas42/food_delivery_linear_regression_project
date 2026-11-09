@@ -60,8 +60,7 @@ in minutes.
 
 1.  Clone this repository:
 
-    git clone <your-repository-url>
-    
+    git clone https://github.com/ankitadas42/food_delivery_linear_regression_project.git 
 
 2.  Open the project folder in VS Code or a terminal.
 
